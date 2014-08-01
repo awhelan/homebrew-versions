@@ -3,7 +3,7 @@ require 'formula'
 class Tomcat7 < Formula
   homepage "http://tomcat.apache.org/"
   url "http://www.apache.org/dyn/closer.cgi?path=tomcat/tomcat-7/v7.0.55/bin/apache-tomcat-7.0.55.tar.gz"
-  sha1 "b0db037619c5c10cbe8d17f7a1492fd759fa5805"
+  sha1 "4e23f1e3d6d24e0affebe78f6f5c5d5a49eb4e37"
 
   option "with-fulldocs", "Install full documentation locally"
 
